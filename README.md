@@ -14,6 +14,8 @@ Founder of Analytiq, focused on solving local problems with tech.
 ## 🌍 Website
 https://analytiq.ng
 
+I write about Data analysis here: https://analytiq.ng/blog
+
 
 ## 📬 Contact
 Email: info@analytiq.ng  

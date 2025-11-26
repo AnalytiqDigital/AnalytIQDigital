@@ -1,16 +1,23 @@
 ## Hi there 👋
+# 👋 Welcome to Analytiq
 
-<!--
-**AnalytiqDigital/AnalytIQDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analysis | Web Development | AI Projects
 
-Here are some ideas to get you started:
+I'm a Data Analyst and Web Developer building dashboards, web apps, and AI tools.  
+Founder of Analytiq, focused on solving local problems with tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Excel, Power BI, SQL, Python
+- React, Node.js, MongoDB
+- AI APIs, Automation Tools
+
+## 🌍 Website
+https://analytiq.ng
+
+
+## 📬 Contact
+Email: info@analytiq.ng  
+LinkedIn: https://linkedin.com/in/mekan-Matthew
+
+
+Create initial profile README
